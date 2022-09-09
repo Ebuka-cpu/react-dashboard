@@ -1,0 +1,19 @@
+.home{
+    flex: 4;
+    background: black;
+    color: white;
+    overflow-x: hidden;
+    position: relative;
+}
+.homeWidgets{
+    display: flex;
+    margin: 20px;
+    margin-top: 40px;
+}
+@media screen and (max-width: 480px) {
+    .homeWidgets{
+      flex-direction: column;
+      
+    }
+    
+  }

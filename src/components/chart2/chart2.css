@@ -1,0 +1,10 @@
+.chart2{
+    padding: 30px;
+    margin: 20px;
+    margin-top: 40px;
+    -webkit-box-shadow: 5px 4px 11px 4px #242636;
+  box-shadow: 5px 4px 11px 4px #242636;
+}
+.chart2Analysis{
+    margin-bottom: 20px;
+}

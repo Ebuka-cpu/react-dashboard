@@ -1,0 +1,26 @@
+.sales{
+    flex: 4;
+    padding: 24px;
+    background: black;
+    color: white;
+    position: relative;
+}
+.salesTitleContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.salesTitle{
+    font-size: 24px;
+}
+.salesTop{
+    flex: 1;
+}
+.salesAddButton{
+    border: none;
+    padding: 5px 15px ;
+    background-color: teal;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+}
